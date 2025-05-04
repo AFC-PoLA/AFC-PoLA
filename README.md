@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @AFC-PoLA
-- 👀 I’m interested in Hacking.
-- 🌱 I’m currently learning Cyber security.
-- 💀
-- 📫 How to reach me https://chat.whatsapp.com/CGFkSHWeYl6KzDvhSPSZ75
-- 😄 Pronouns: he/she
-- ⚡ Fun fact: I m changing image & part of Albanian 🇦🇱 hacker!
+- Hi, I'm POLA 👋
+I am a passionate Ethical Hacker specializing in social engineering and human manipulation techniques to uncover security weaknesses that technology alone can't detect. My mission is to help organizations strengthen their defenses by exposing the human element vulnerabilities before malicious actors do.
 
-<!---
-AFC-PoLA/AFC-PoLA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+With a deep understanding of psychology and cybersecurity, I combine technical skills with social engineering expertise to simulate real-world attack scenarios, ensuring comprehensive security assessments.
+
+🔐 Skills & Expertise:
+
+Social Engineering & Phishing
+Psychological Manipulation
+Security Awareness Training
+Vulnerability Assessment
+Ethical Hacking & Penetration Testing
+Let's connect and collaborate to build safer digital environments!
